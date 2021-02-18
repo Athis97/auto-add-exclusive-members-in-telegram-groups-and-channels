@@ -41,3 +41,4 @@ Adding users by User ID expects a CSV file such as: `username,user_id,user_acces
 
  # Donate
  [### Donate ###](https://paypal.me/Arun98)
+ <i class="cib-buy-me-a-coffee"></i>
