@@ -38,3 +38,6 @@ Users can be added using:
 
 Adding users by Username expects a CSV file with one username per line.
 Adding users by User ID expects a CSV file such as: `username,user_id,user_access_hash`
+
+ # Donate
+ [### Donate ###](https://paypal.me/Arun98)
