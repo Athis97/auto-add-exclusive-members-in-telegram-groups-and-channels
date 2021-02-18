@@ -39,6 +39,6 @@ Users can be added using:
 Adding users by Username expects a CSV file with one username per line.
 Adding users by User ID expects a CSV file such as: `username,user_id,user_access_hash`
 
- # Donate
- [### Donate ###](https://paypal.me/Arun98)
- <i class="cib-buy-me-a-coffee"></i>
+ # Buy me a coffee
+ [(https://gist.githubusercontent.com/Athis97/a42e7e7d1e8cf8bb4a7c7b2bf942fc7b/raw/d8379158d2ef0393869a27ff4c181dc3f888c1db/buymeacoffee.svg)](https://paypal.me/Arun98)
+ 
